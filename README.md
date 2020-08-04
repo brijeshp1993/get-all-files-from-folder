@@ -1,4 +1,4 @@
-# collect-the-list-of-all-files
+# get-all-files-from-folder
 collect the list of all files in a given path, including files in all subfolders using multi-threading and multitasking
 
 ## Build and Run project
